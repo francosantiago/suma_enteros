@@ -26,6 +26,6 @@ public class Test
 
         // output
 
-        JOptionPane.showMessageDialog(null, "La suma de " + x  +" y " + y  + " es = " + z);
+        JOptionPane.showMessageDialog(null, "La suma de " + x  +" y " + y  + " es = " + z, "suma enteros", JOptionPane.WARNING_MESSAGE);
     }
 }
