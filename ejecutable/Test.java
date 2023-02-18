@@ -26,6 +26,6 @@ public class Test
 
         // output
 
-        JOptionPane.showMessageDialog(null, "La suma de los dos enteros es = " + z);
+        JOptionPane.showMessageDialog(null, "La suma de " + x  +" y " + y  + " es = " + z);
     }
 }
